@@ -1,0 +1,147 @@
+./Applications:root:admin:
+./Applications/LogMeIn Hamachi:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/_CodeSignature:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/_CodeSignature/CodeResources:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Info.plist:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/MacOS:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/MacOS/Uninstaller:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/PkgInfo:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/English.lproj:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/English.lproj/InfoPlist.strings:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/English.lproj/Localizable.strings:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/UninstallDialog.nib:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/uninstaller.icns:root:admin:
+./Applications/LogMeIn Hamachi/HamachiUninstaller.app/Contents/Resources/uninstaller.sh:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/_CodeSignature:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/_CodeSignature/CodeResources:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Info.plist:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/MacOS:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/MacOS/LogMeIn Hamachi Menubar:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/PkgInfo:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/application.icns:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/MenuBarApplet.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/messages.bin:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/status_offline.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/status_offline_message.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/status_online.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/status_online_message.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi Menubar.app/Contents/Resources/status_reconnecting.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/_CodeSignature:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/_CodeSignature/CodeResources:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Info.plist:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/MacOS:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/MacOS/LogMeIn Hamachi:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/PkgInfo:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/alert_black.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/alert_white.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/application.icns:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/BalloonError.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/BalloonInfo.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/BalloonWarning.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/checkbox_off.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/checkbox_on.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/client2_hamachi-Info.plist:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/close_x.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/ConfigInfo.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/ConfigSecurity.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/ConfigSettings.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/CustomStatus.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/empty.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/AttachToAccount.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/AuthenticatePeer.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/ChangeNetworkPassword.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/ChangeNickname.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/Chat.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/Config.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/CreateNetwork.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/DeleteNetwork.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/EvictMember.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/InfoPlist.strings:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/JoinNetwork.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/LeaveNetworkConfirmDialog.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/MainMenu.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/NetworkAccess.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/NotificationDialog.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/Peer.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/PeerKeyMismatch.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/PeerLabel.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/PopoverView.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/SetIPAddress.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/SetPassword.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/TransferConfirmDialog.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/English.lproj/XBalloon.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/Enroll.nib:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/go.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/hamachidaemonctl:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/messages.bin:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/PeerWarning.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_1.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_2.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_3.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_4.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_5.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/power_btn_6.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_chat.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_down.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_green.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_grey.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_red.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_up.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_net_states_warning.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_blue.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_blue3.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_blue_2.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_chat.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_green.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_green2.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_grey.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_lightblue.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_orange.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_red.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_tick.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/tree_peer_states_warning.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/TunnelActive.png:root:admin:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/TunnelInactive.png:root:admin:
+./Library:root:admin:
+./Library/Application Support:root:admin:
+./Library/Application Support/LogMeIn Hamachi:root:admin:
+./Library/Application Support/LogMeIn Hamachi/bin:root:admin:
+./Library/Application Support/LogMeIn Hamachi/bin/hamachid:root:admin:
+./Library/Application Support/LogMeIn Hamachi/License.rtf:root:admin:
+./Library/Application Support/LogMeIn Hamachi/README:root:admin:
+./Library/Application Support/LogMeIn Hamachi/Release_notes.rtf:root:admin:
+./Library/Application Support/LogMeIn Hamachi/run:root:admin:
+./Library/Application Support/LogMeIn Hamachi/TunTap-Changelog:root:admin:
+./Library/Application Support/LogMeIn Hamachi/TunTap-Changelog/Changelog:root:admin:
+./Library/Application Support/LogMeIn Hamachi/TunTap-License.rtfd:root:admin:
+./Library/Application Support/LogMeIn Hamachi/TunTap-License.rtfd/License.rtfd:root:admin:
+./Library/Application Support/LogMeIn Hamachi/TunTap-License.rtfd/License.rtfd/TXT.rtf:root:admin:
+./Library/Extensions:root:admin:
+./Library/Extensions/ham.kext:root:admin:
+./Library/Extensions/ham.kext/Contents:root:admin:
+./Library/Extensions/ham.kext/Contents/Info.plist:root:admin:
+./Library/Extensions/ham.kext/Contents/MacOS:root:admin:
+./Library/Extensions/ham.kext/Contents/MacOS/ham:root:admin:
+./Library/LaunchAgents:root:admin:
+./Library/LaunchAgents/com.logmein.hamachimb.plist:root:admin:
+./Library/LaunchDaemons:root:admin:
+./Library/LaunchDaemons/com.logmein.hamachi.plist:root:admin:
+./Library/Logs:root:admin:
+./Library/Logs/LogMeIn Hamachi:root:admin:
+./Library/Extensions:root:admin:
+./Library/Extensions/ham.kext:root:wheel:
+./Library/Extensions/ham.kext/Contents:root:wheel:
+./Library/Extensions/ham.kext/Contents/Info.plist:root:wheel:
+./Library/Extensions/ham.kext/Contents/MacOS:root:wheel:
+./Library/Extensions/ham.kext/Contents/MacOS/ham:root:wheel:
+./Applications/LogMeIn Hamachi/LogMeIn Hamachi.app/Contents/Resources/hamachidaemonctl:root:admin:4755

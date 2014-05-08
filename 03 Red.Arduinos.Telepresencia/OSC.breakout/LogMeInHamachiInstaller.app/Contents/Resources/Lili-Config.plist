@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Window</key>
+	<dict>
+		<key>TextColor</key>
+		<string>255 255 255</string>
+		<key>Width</key>
+		<integer>600</integer>
+		<key>Height</key>
+		<integer>400</integer>
+	</dict>
+	<key>WelcomePage</key>
+	<dict>
+		<key>WelcomeRTF</key>
+		<string>welcome.rtfd</string>
+		<key>LicenseURL</key>
+		<string>https://secure.logmein.com/policies/termsandconditions.aspx</string>
+	</dict>
+	<key>FinishPage</key>
+	<dict>
+		<key>StartCustomApp</key>
+		<string></string>
+	</dict>
+	<key>UncompressStep</key>
+	<dict>
+		<key>RootFolder</key>
+		<string>/</string>
+		<key>ArchiveFile</key>
+		<string>archive.pax.gz</string>
+	</dict>
+	<key>Log</key>
+	<dict>
+		<key>Enabled</key>
+		<true/>
+		<key>LogFile</key>
+		<string>/tmp/lili/liliinstallog - %DATE%.txt</string>
+	</dict>
+</dict>
+</plist>
